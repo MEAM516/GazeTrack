@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/doudou/Documents/MEAM516/GazeTrack/cameratest.cpp
+opencv2/opencv.hpp
+/home/doudou/Documents/MEAM516/GazeTrack/opencv2/opencv.hpp
+iostream
+-
+stdio.h
+-
+

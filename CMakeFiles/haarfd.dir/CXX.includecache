@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/doudou/Documents/MEAM516/GazeTrack/haarfd.cpp
+opencv2/objdetect/objdetect.hpp
+/home/doudou/Documents/MEAM516/GazeTrack/opencv2/objdetect/objdetect.hpp
+opencv2/highgui/highgui.hpp
+/home/doudou/Documents/MEAM516/GazeTrack/opencv2/highgui/highgui.hpp
+opencv2/imgproc/imgproc.hpp
+/home/doudou/Documents/MEAM516/GazeTrack/opencv2/imgproc/imgproc.hpp
+iostream
+-
+stdio.h
+-
+
